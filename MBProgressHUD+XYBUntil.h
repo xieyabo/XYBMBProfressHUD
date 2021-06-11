@@ -6,7 +6,7 @@
 //  Copyright © 2019 谢亚波. All rights reserved.
 //
 
-#import "MBProgressHUD.h"
+#import "MBProgressHUD+XYBUntil.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
