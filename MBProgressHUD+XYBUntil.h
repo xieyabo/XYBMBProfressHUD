@@ -6,8 +6,6 @@
 //  Copyright © 2019 谢亚波. All rights reserved.
 //
 
-#import "MBProgressHUD+XYBUntil.h"
-
 NS_ASSUME_NONNULL_BEGIN
 
 @interface MBProgressHUD (XYBUntil)
